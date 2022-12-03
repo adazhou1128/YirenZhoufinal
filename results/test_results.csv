@@ -1,0 +1,4 @@
+,"statistic, p-value"
+analysis1,"Ttest_1sampResult(statistic=13.26541688498398, pvalue=4.869321323146675e-31)"
+analysis2,"Ttest_1sampResult(statistic=9.178076983517427, pvalue=1.0)"
+analysis3,"Ttest_indResult(statistic=1.3795755031653942, pvalue=0.16863753900419287)"
